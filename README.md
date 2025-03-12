@@ -46,13 +46,6 @@ O **Fast Route** é um software desenvolvido para determinar as melhores rotas p
 - .NET SDK (para o back-end)
 - SQL Server (ou outro banco de dados compatível com Entity Framework Core)
 
-### Passos para Configuração
-
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/fast-route.git
-   cd fast-route
-
 # Passo a Passo para Rodar o Projeto
 ## Clone o Repositório:
      git clone https://github.com/larissatx11/PI3.git
